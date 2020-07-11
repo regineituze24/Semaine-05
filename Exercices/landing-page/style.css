@@ -46,12 +46,12 @@ h2 {
   text-align: center;
   color: #e5e5e5;
 }
-.join-now {
+.join {
   position: fixed;
   width: 200px;
   height: 42px;
-  left: 511px;
-  top: 259px;
+  left: 750px;
+  top: 289px;
   border-radius: 10px 10px 10px 10px;
   background: #a22a2a;
   text-align: center;
@@ -76,5 +76,5 @@ h2 {
   list-style: none;
   margin: 0 8px;
   display: inline-block;
-  line-height: 80px;
+  line-height: 90px;
 }
